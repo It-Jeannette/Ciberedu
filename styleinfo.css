@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  font-size: 27px;
+  background-color: lightblue;
+  border: aqua;
+}
+li{
+  font-size: 25px;
+}
+Home{
+   font-size: 15px;
+}
+img{
+  align-content: center;
+  width: auto;
+  height: auto;  
+}
+P{
+  font size= 27px;
+  align-content: left;
+}
